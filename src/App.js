@@ -64,4 +64,19 @@ class App extends React.Component {
 //     </ul>
 //   );
 // };
+            
+//   var no="no";
+//                         var yes="yes";
+//                         var x=1;
+//                         var check="";
+//                         check=`<div>`;
+//                               if(x==1){
+//                                     check+= `<p>`+yes+`</p>`;
+//                                     } 
+//                                     else{
+//                                       check+= `<span>`+no+`</span>`;
+//                                     }
+//                                     check+=`</div>`;
+//                                 document.getElementById("new").innerHTML=check;             
+            
 export default App;
